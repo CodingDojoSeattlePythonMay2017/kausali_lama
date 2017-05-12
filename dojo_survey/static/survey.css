@@ -1,0 +1,44 @@
+
+
+
+#container{
+	height: 800px;
+	width: 800px;
+	border: solid black;
+	margin: auto;
+	padding:20px;
+}
+textarea{
+	height: 200px;
+	width: 350px;
+	margin-top: 6px;
+	display: block;
+}
+
+form{
+margin-left: 230px;
+margin-top: 170px;
+}
+			
+input{
+	margin: 6px;
+	margin-left: 50px;
+}
+
+select {
+margin: 5px;
+}
+			
+#lan{
+	margin-left: 8px;
+	width: 133px;
+}
+
+#loc {
+	margin-left: 30px;
+	width: 133px;
+}
+
+#button{
+	margin-left: 308px;
+}
